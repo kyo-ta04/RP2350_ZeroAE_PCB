@@ -19,5 +19,6 @@ Waveshare RP2350-Zero の ピン配置を AE-RP2040 互換にする変換基板
 
 ![img4](./img/img4.jpg)
 
-![img5](./img/img5.jpg)
+![img6](./img/img6.jpg)
 
+![img5](./img/img5.jpg)
